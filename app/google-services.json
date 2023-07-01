@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "475110658408",
+    "firebase_url": "https://latihanppb-default-rtdb.firebaseio.com",
+    "project_id": "latihanppb",
+    "storage_bucket": "latihanppb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475110658408:android:5b2afb7257b7db6945c6dd",
+        "android_client_info": {
+          "package_name": "com.junaedi.latihanfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475110658408-rf1bfo869cdi272d3isnebfa802plrdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqdoviAyV8lHWOVS6dvxRvAMU6Ge-GxkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475110658408-rf1bfo869cdi272d3isnebfa802plrdr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
